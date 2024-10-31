@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Antalya
 * ✉️  You can contact me at [baturalptastan.ce@gmail.com](mailto:baturalptastan.ce@gmail.com)
-* 🧠  I'm learning .net technologies
+* 🧠  I'm learning .NET technologies
 
 ### Skills
 
